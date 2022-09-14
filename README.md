@@ -10,6 +10,8 @@ My name is Lauren and I'm a Technical Writer and Content Specialist.
 
 - 💬 Ask me about ... NFTs
 
+- 🔭 VS Code 
+
 
 <!--
 **lauren-mae/lauren-mae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
