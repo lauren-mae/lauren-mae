@@ -2,28 +2,15 @@
 
 My name is Lauren and I'm a Technical Writer and Content Specialist.
 
-- 📫 How to reach me: ... laurenmaedigital.com
+🔭 How to find out more about me: go to [laurenmaedigital.com](laurenmaedigital.com).
 
+📫 How to reach me: send me an email [lauren@laurenmaedigital.com](mailto:lauren@laurenmaedigital.com?subject=[GitHub]%20Source%20Han%20Sans).
 
-- 🌱 I’m currently learning ... JavaScript, Solidity
+🌱 I’m currently learning: JavaScript, Solidity and GoLang.
 
+😄 I already know about: HTML5, CSS, and Markdown. 
 
-- 💬 Ask me about ... NFTs
+💬 Ask me about: NFTs and Ethereum. 
 
-- 🔭 VS Code 
+🛠 Tools I'm using: VS Code, Bit.ai.  
 
-
-<!--
-**lauren-mae/lauren-mae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
