@@ -4,7 +4,7 @@ My name is Lauren and I'm a Technical Writer and Content Specialist.
 
 🔭 How to find out more about me: go to [laurenmaedigital.com](laurenmaedigital.com).
 
-📫 How to reach me: send me an email [lauren@laurenmaedigital.com](mailto:lauren@laurenmaedigital.com?subject=[GitHub]%20Source%20Han%20Sans).
+📫 How to reach me: send me an email [lauren@laurenmaedigital.com](mailto:lauren@laurenmaedigital.com?subject=[GitHub]).
 
 🌱 I’m currently learning: JavaScript, Solidity and GoLang.
 
